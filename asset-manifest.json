@@ -1,29 +1,28 @@
 {
   "files": {
     "main.css": "./static/css/main.450aa52a.chunk.css",
-    "main.js": "./static/js/main.e5aaef2b.chunk.js",
-    "main.js.map": "./static/js/main.e5aaef2b.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.d05502e7.js",
-    "runtime-main.js.map": "./static/js/runtime-main.d05502e7.js.map",
-    "static/js/2.bde7ff73.chunk.js": "./static/js/2.bde7ff73.chunk.js",
-    "static/js/2.bde7ff73.chunk.js.map": "./static/js/2.bde7ff73.chunk.js.map",
-    "static/js/3.6657c866.chunk.js": "./static/js/3.6657c866.chunk.js",
-    "static/js/3.6657c866.chunk.js.map": "./static/js/3.6657c866.chunk.js.map",
+    "main.js": "./static/js/main.90cbc703.chunk.js",
+    "main.js.map": "./static/js/main.90cbc703.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5f70cadf.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5f70cadf.js.map",
+    "static/js/2.12d2ac18.chunk.js": "./static/js/2.12d2ac18.chunk.js",
+    "static/js/2.12d2ac18.chunk.js.map": "./static/js/2.12d2ac18.chunk.js.map",
+    "static/js/3.226673f7.chunk.js": "./static/js/3.226673f7.chunk.js",
+    "static/js/3.226673f7.chunk.js.map": "./static/js/3.226673f7.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.450aa52a.chunk.css.map": "./static/css/main.450aa52a.chunk.css.map",
-    "static/js/2.bde7ff73.chunk.js.LICENSE.txt": "./static/js/2.bde7ff73.chunk.js.LICENSE.txt",
+    "static/js/2.12d2ac18.chunk.js.LICENSE.txt": "./static/js/2.12d2ac18.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/back-blur.25bf2401.jpg",
     "static/media/header-blank.5555b529.png": "./static/media/header-blank.5555b529.png",
     "static/media/metamask.55d59196.png": "./static/media/metamask.55d59196.png",
     "static/media/mydiamondteam-fire.6804dfc7.png": "./static/media/mydiamondteam-fire.6804dfc7.png",
-    "static/media/mydiamondteam-fire.bbbec596.png": "./static/media/mydiamondteam-fire.bbbec596.png",
     "static/media/trustwallet.8de17c9e.png": "./static/media/trustwallet.8de17c9e.png",
     "static/media/walletconnect.1b22e784.png": "./static/media/walletconnect.1b22e784.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d05502e7.js",
-    "static/js/2.bde7ff73.chunk.js",
+    "static/js/runtime-main.5f70cadf.js",
+    "static/js/2.12d2ac18.chunk.js",
     "static/css/main.450aa52a.chunk.css",
-    "static/js/main.e5aaef2b.chunk.js"
+    "static/js/main.90cbc703.chunk.js"
   ]
 }
